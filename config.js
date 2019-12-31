@@ -10,7 +10,7 @@ const CHANNELID = 'UX';
 
 const APP_VERSION = '4.5.0';
 
-const BASE_URL = 'https://tsel1.herokuapp.com';
+const BASE_URL = 'https://t-sel--api.herokuapp.com';
 
 module.exports = {
   AUTH,
