@@ -23,16 +23,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/IoSylvana/telkomsel-api"
+    "url": "https://github.com/buthoijo/telkomsel-api"
   },
   "keywords": [
     "node",
     "heroku",
     "express"
   ],
-  "author": "IoSylvana",
+  "author": "buthoijo",
   "contributors": [
-    "IoSylvana"
+    "buthoijo"
   ],
   "license": "MIT",
   "devDependencies": {}
